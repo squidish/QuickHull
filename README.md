@@ -12,6 +12,7 @@ The convex hull of a set of points is defined as the smallest convex polygon, th
 g++ complier required, standard C++ libraries only
 
 `cd QuickHull` 
+
 `make`
 
 ## Input 
