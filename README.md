@@ -46,7 +46,9 @@ f1a
 f1b   
 f1c   
 f2a   
-f2b   
+f2b     
 f2c   
 
+where (lxa,lxb,lxc) are the 3d coordinates of a triangle that forms a facet of the convext hull. 
 
+These formats can be read by common visualisation packages such as R. 
